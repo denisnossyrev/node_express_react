@@ -19,15 +19,9 @@
       "stage-2"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/denisnossyrev/node_express_react.git"
-  },
+  
   "author": "Denis Nossyrev",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/denisnossyrev/node_express_react/issues"
-  },
   "homepage": "https://github.com/denisnossyrev/node_express_react#readme",
   "devDependencies": {
     "babel-eslint": "^8.2.2",
